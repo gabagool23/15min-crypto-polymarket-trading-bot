@@ -2,8 +2,8 @@
 
 Automated strategy bot for [Polymarket](https://polymarket.com) binary markets (e.g. 15-minute BTC price resolution). Detects short-term “dump” moves, enters **Leg 1**, then hedges with **Leg 2** when the combined cost is below a target sum to lock in edge.
 
-**Repository:** [https://github.com/baker42757/15min-crypto-polymarket-trading-bot](https://github.com/baker42757/15min-crypto-polymarket-trading-bot)  
-**Contact (Telegram):** [@baker1119](https://t.me/baker1119)
+**Repository:** [https://github.com/gabagool23/15min-crypto-polymarket-trading-bot](https://github.com/gabagool23/15min-crypto-polymarket-trading-bot)  
+**Contact (Telegram):** [@gabagool21](https://t.me/gabagool21)
 
 
 
