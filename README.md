@@ -25,6 +25,12 @@ A collection of automated trading bots for **Polymarket** binary Up/Down markets
 https://github.com/user-attachments/assets/1a990b92-32e0-4113-8ba1-d0e6e42e179d
 
 
+https://github.com/user-attachments/assets/c72f0206-6376-4e25-acd4-b93b93027af8
+
+https://github.com/user-attachments/assets/690fdbff-aeb8-4838-b4e8-e1059be8900d
+
+
+
 ![photo_2026-02-26_11-48-37](https://github.com/user-attachments/assets/8be72f5c-31cf-422c-858c-9eea78905430)
 
 ![photo_2026-02-24_12-09-26](https://github.com/user-attachments/assets/1483bc08-794b-44d8-a464-b80623554006)
