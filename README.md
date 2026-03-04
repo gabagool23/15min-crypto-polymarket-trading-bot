@@ -20,6 +20,11 @@ A collection of automated trading bots for **Polymarket** binary Up/Down markets
 | 7 | [**5min Low-Side Buy**](#7-5-minute-low-side-buy-bot) | 5 min | Buy at 1-3c on both sides for asymmetric reversal payoffs |
 
 ---
+
+
+https://github.com/user-attachments/assets/1a990b92-32e0-4113-8ba1-d0e6e42e179d
+
+
 ![photo_2026-02-26_11-48-37](https://github.com/user-attachments/assets/8be72f5c-31cf-422c-858c-9eea78905430)
 
 ![photo_2026-02-24_12-09-26](https://github.com/user-attachments/assets/1483bc08-794b-44d8-a464-b80623554006)
@@ -38,6 +43,7 @@ Monitors 15-minute Up/Down markets and detects sudden price drops ("dumps"). Whe
 > **Strategy credit:** Based on [The Smart Ape's](https://x.com/the_smart_ape) two-leg catching-and-hedging strategy for Polymarket BTC 15-minute UP/DOWN markets ([original tweet](https://x.com/the_smart_ape/status/2005576087875527082) · [detailed write-up on Lookonchain](https://www.lookonchain.com/articles/1209)). The Smart Ape's approach — detect a sharp dump on one side, buy it, then hedge by buying the opposite side when the combined cost is below $1 — achieved ~86% ROI in backtesting. This bot is a Rust implementation of that core idea with added stop-loss management, multi-asset support, and automatic redemption.
 
 **Real Results:**
+
 <img width="1373" height="535" alt="15min-3" src="https://github.com/user-attachments/assets/bb90c2e3-6178-4348-920a-d3a7a1a53dea" />
 <img width="3159" height="663" alt="15-ex-1" src="https://github.com/user-attachments/assets/e0064780-7b3e-4f22-94fa-ad685ef0023e" />
 <img width="3146" height="657" alt="15-ex-1-2" src="https://github.com/user-attachments/assets/8688db22-17ba-42ca-83e9-23becdbcc4b2" />
